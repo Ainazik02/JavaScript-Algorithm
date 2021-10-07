@@ -10,3 +10,10 @@ function fizzBuzz(num){
 }
 
 fizzBuzz(20)
+
+```````````````````````````````````````````````````````````
+Big O notation:
+constant runtime-O(1)
+linear runtime-O(n)
+exponential runtime-O(n^2)
+logarithmic runtime-O(log n)  //binary search /2 the array
