@@ -1,0 +1,4 @@
+An easy way to append data to the end of an array is via the push() function.
+Another way to change the data in an array is with the .pop() function.
+
+
