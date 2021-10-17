@@ -9,3 +9,4 @@ The first console.log will display the value 6, and the second will display the 
 -Functions()-In JavaScript, we can divide up our code into reusable parts
 -There are three scopes:global, local, block
 -Queue is an abstract Data Structure where items are kept in order
+-Objects are similar to arrays, except that instead of using indexes to access and modify their data, you access the data in objects through what are called properties.
