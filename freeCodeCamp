@@ -1,4 +1,11 @@
-An easy way to append data to the end of an array is via the push() function.
-Another way to change the data in an array is with the .pop() function.
-
-
+-An easy way to append data to the end of an array is via the push() function.
+-Another way to change the data in an array is with the .pop() function:
+var threeArr = [1, 4, 6];
+var oneDown = threeArr.pop();
+console.log(oneDown);
+console.log(threeArr);
+The first console.log will display the value 6, and the second will display the value [1, 4].
+-.shift() is same with pop()-just removes first element.
+-Functions()-In JavaScript, we can divide up our code into reusable parts
+-There are three scopes:global, local, block
+-Queue is an abstract Data Structure where items are kept in order
