@@ -10,3 +10,6 @@ The first console.log will display the value 6, and the second will display the 
 -There are three scopes:global, local, block
 -Queue is an abstract Data Structure where items are kept in order
 -Objects are similar to arrays, except that instead of using indexes to access and modify their data, you access the data in objects through what are called properties.
+-There are two ways to access the properties of an object: dot notation (.)-known name of the property and bracket notation ([])-have a spce in property, similar to an array.
+-bracket notation is udeful to iterate through objects properties
+-
