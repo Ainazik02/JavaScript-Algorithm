@@ -12,4 +12,4 @@ The first console.log will display the value 6, and the second will display the 
 -Objects are similar to arrays, except that instead of using indexes to access and modify their data, you access the data in objects through what are called properties.
 -There are two ways to access the properties of an object: dot notation (.)-known name of the property and bracket notation ([])-have a spce in property, similar to an array.
 -bracket notation is udeful to iterate through objects properties
--
+-The syntax is a ? b : c, where a is the condition, b is the code to run when the condition returns true, and c is the code to run when the condition returns false.
