@@ -14,4 +14,5 @@ The first console.log will display the value 6, and the second will display the 
 -bracket notation is udeful to iterate through objects properties
 -The syntax is a ? b : c, where a is the condition, b is the code to run when the condition returns true, and c is the code to run when the condition returns false.
 -let(unique varibale, if not error), var (will be overwritten, without an error)
--\w===[A-Za-z0-9_]
+-\w===[A-Za-z0-9_] ; opposites is \W
+-\d===[0-9]   ; \D is [^0-9]
