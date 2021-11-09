@@ -16,3 +16,4 @@ The first console.log will display the value 6, and the second will display the 
 -let(unique varibale, if not error), var (will be overwritten, without an error)
 -\w===[A-Za-z0-9_] ; opposites is \W
 -\d===[0-9]   ; \D is [^0-9]
+-JavaScript recognizes six primitive (immutable) data types: Boolean, Null, Undefined, Number, String, and Symbol (new with ES6) and one type for mutable items: Object. Note that in JavaScript, arrays are technically a type of object.
