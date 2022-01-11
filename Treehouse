@@ -1,2 +1,5 @@
 9e-6 // same as .000009
 9e+6 // same as 9000000
+Change to Intager:
+1) parseInt() // parseFloat() (makes more readable code)
+2) +string  // Unary plus operator
