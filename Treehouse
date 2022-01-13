@@ -3,3 +3,5 @@
 Change to Intager:
 1) parseInt() // parseFloat() (makes more readable code)
 2) +string  // Unary plus operator
+
+Take Advantage of JSDoc Comments
